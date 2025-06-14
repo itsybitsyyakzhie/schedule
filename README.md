@@ -11,7 +11,7 @@
       font-family: "Segoe UI", sans-serif;
       background: linear-gradient(to bottom, #ffe6f0, #ffe6f9);
       color: #5c1a37;
-      background-image: url('https://i.imgur.com/q3kzWk9.png');
+      background-image: url('https://ibb.co/MxmTdTKN');
       background-size: cover;
       background-repeat: no-repeat;
     }
